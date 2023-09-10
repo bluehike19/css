@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: sans-serif;
-  background: #f5f6f7;
+  background: #ffffff;
 }
 
 .header {
@@ -14,7 +14,7 @@ body {
   padding: 32px;
   background-color: #0a0a23;
   color: #fff;
-  border-bottom: 4px solid #fdb347;
+  border-bottom: 3px solid #f19b19;
 }
 
 .gallery {
